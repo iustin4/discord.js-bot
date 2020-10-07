@@ -1,0 +1,30 @@
+{
+  "name": "discord.js-bot",
+  "version": "1.0.0",
+  "description": "a discord.js template bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enffinity/discord.js-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discordbot",
+    "discord.js",
+    "discord-bot"
+  ],
+  "author": "enffinity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enffinity/discord.js-bot/issues"
+  },
+  "homepage": "https://github.com/enffinity/discord.js-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
